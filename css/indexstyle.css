@@ -1,0 +1,14 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+   background: url(../img/sky.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   background-color: #87CEFA;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
